@@ -8,6 +8,7 @@ Contains topicwise list of solved problems.
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/asag7200-design/Leetcode-problems/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/asag7200-design/Leetcode-problems/tree/main/0013-roman-to-integer/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -17,4 +18,8 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/asag7200-design/Leetcode-problems/tree/main/0013-roman-to-integer/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/asag7200-design/Leetcode-problems/tree/main/0001-two-sum/) | Easy |
 <!---LeetCode Topics End-->
