@@ -30,11 +30,13 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/asag7200-design/Leetcode-problems/tree/main/0001-two-sum/) | Easy |
+| [0004-median-of-two-sorted-arrays](https://github.com/asag7200-design/Leetcode-problems/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0066-plus-one](https://github.com/asag7200-design/Leetcode-problems/tree/main/0066-plus-one/) | Easy |
 | [0169-majority-element](https://github.com/asag7200-design/Leetcode-problems/tree/main/0169-majority-element/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/asag7200-design/Leetcode-problems/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0169-majority-element](https://github.com/asag7200-design/Leetcode-problems/tree/main/0169-majority-element/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -64,4 +66,8 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/asag7200-design/Leetcode-problems/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/asag7200-design/Leetcode-problems/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 <!---LeetCode Topics End-->
