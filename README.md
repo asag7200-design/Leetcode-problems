@@ -32,6 +32,7 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0001-two-sum](https://github.com/asag7200-design/Leetcode-problems/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/asag7200-design/Leetcode-problems/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0011-container-with-most-water](https://github.com/asag7200-design/Leetcode-problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0035-search-insert-position](https://github.com/asag7200-design/Leetcode-problems/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/asag7200-design/Leetcode-problems/tree/main/0066-plus-one/) | Easy |
 | [0169-majority-element](https://github.com/asag7200-design/Leetcode-problems/tree/main/0169-majority-element/) | Easy |
@@ -55,6 +56,7 @@ Contains topicwise list of solved problems.
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/asag7200-design/Leetcode-problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0125-valid-palindrome](https://github.com/asag7200-design/Leetcode-problems/tree/main/0125-valid-palindrome/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -73,4 +75,8 @@ Contains topicwise list of solved problems.
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/asag7200-design/Leetcode-problems/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0035-search-insert-position](https://github.com/asag7200-design/Leetcode-problems/tree/main/0035-search-insert-position/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/asag7200-design/Leetcode-problems/tree/main/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
