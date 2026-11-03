@@ -27,6 +27,7 @@ Contains topicwise list of solved problems.
 | [0006-zigzag-conversion](https://github.com/asag7200-design/Leetcode-problems/tree/main/0006-zigzag-conversion/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/asag7200-design/Leetcode-problems/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0013-roman-to-integer](https://github.com/asag7200-design/Leetcode-problems/tree/main/0013-roman-to-integer/) | Easy |
+| [0058-length-of-last-word](https://github.com/asag7200-design/Leetcode-problems/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/asag7200-design/Leetcode-problems/tree/main/0125-valid-palindrome/) | Easy |
 ## Array
 | Problem Name | Difficulty |
