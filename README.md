@@ -20,6 +20,7 @@ Contains topicwise list of solved problems.
 | [0009-palindrome-number](https://github.com/asag7200-design/Leetcode-problems/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/asag7200-design/Leetcode-problems/tree/main/0013-roman-to-integer/) | Easy |
 | [0066-plus-one](https://github.com/asag7200-design/Leetcode-problems/tree/main/0066-plus-one/) | Easy |
+| [0342-power-of-four](https://github.com/asag7200-design/Leetcode-problems/tree/main/0342-power-of-four/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -68,6 +69,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/asag7200-design/Leetcode-problems/tree/main/0002-add-two-numbers/) | Medium |
+| [0342-power-of-four](https://github.com/asag7200-design/Leetcode-problems/tree/main/0342-power-of-four/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -81,4 +83,8 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/asag7200-design/Leetcode-problems/tree/main/0011-container-with-most-water/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0342-power-of-four](https://github.com/asag7200-design/Leetcode-problems/tree/main/0342-power-of-four/) | Easy |
 <!---LeetCode Topics End-->
