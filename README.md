@@ -39,6 +39,7 @@ Contains topicwise list of solved problems.
 | [0035-search-insert-position](https://github.com/asag7200-design/Leetcode-problems/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/asag7200-design/Leetcode-problems/tree/main/0066-plus-one/) | Easy |
 | [0169-majority-element](https://github.com/asag7200-design/Leetcode-problems/tree/main/0169-majority-element/) | Easy |
+| [1920-build-array-from-permutation](https://github.com/asag7200-design/Leetcode-problems/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/asag7200-design/Leetcode-problems/tree/main/1929-concatenation-of-array/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -91,5 +92,6 @@ Contains topicwise list of solved problems.
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1920-build-array-from-permutation](https://github.com/asag7200-design/Leetcode-problems/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/asag7200-design/Leetcode-problems/tree/main/1929-concatenation-of-array/) | Easy |
 <!---LeetCode Topics End-->
