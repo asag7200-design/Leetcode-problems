@@ -39,6 +39,7 @@ Contains topicwise list of solved problems.
 | [0035-search-insert-position](https://github.com/asag7200-design/Leetcode-problems/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/asag7200-design/Leetcode-problems/tree/main/0066-plus-one/) | Easy |
 | [0169-majority-element](https://github.com/asag7200-design/Leetcode-problems/tree/main/0169-majority-element/) | Easy |
+| [1929-concatenation-of-array](https://github.com/asag7200-design/Leetcode-problems/tree/main/1929-concatenation-of-array/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -87,4 +88,8 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0342-power-of-four](https://github.com/asag7200-design/Leetcode-problems/tree/main/0342-power-of-four/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1929-concatenation-of-array](https://github.com/asag7200-design/Leetcode-problems/tree/main/1929-concatenation-of-array/) | Easy |
 <!---LeetCode Topics End-->
