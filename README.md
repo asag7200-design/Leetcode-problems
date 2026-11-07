@@ -21,6 +21,7 @@ Contains topicwise list of solved problems.
 | [0013-roman-to-integer](https://github.com/asag7200-design/Leetcode-problems/tree/main/0013-roman-to-integer/) | Easy |
 | [0066-plus-one](https://github.com/asag7200-design/Leetcode-problems/tree/main/0066-plus-one/) | Easy |
 | [0224-basic-calculator](https://github.com/asag7200-design/Leetcode-problems/tree/main/0224-basic-calculator/) | Hard |
+| [0258-add-digits](https://github.com/asag7200-design/Leetcode-problems/tree/main/0258-add-digits/) | Easy |
 | [0342-power-of-four](https://github.com/asag7200-design/Leetcode-problems/tree/main/0342-power-of-four/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -97,10 +98,15 @@ Contains topicwise list of solved problems.
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/asag7200-design/Leetcode-problems/tree/main/0258-add-digits/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/asag7200-design/Leetcode-problems/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/asag7200-design/Leetcode-problems/tree/main/1929-concatenation-of-array/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0224-basic-calculator](https://github.com/asag7200-design/Leetcode-problems/tree/main/0224-basic-calculator/) | Hard |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/asag7200-design/Leetcode-problems/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
