@@ -66,12 +66,14 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/asag7200-design/Leetcode-problems/tree/main/0011-container-with-most-water/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/asag7200-design/Leetcode-problems/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0027-remove-element](https://github.com/asag7200-design/Leetcode-problems/tree/main/0027-remove-element/) | Easy |
 | [0125-valid-palindrome](https://github.com/asag7200-design/Leetcode-problems/tree/main/0125-valid-palindrome/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/asag7200-design/Leetcode-problems/tree/main/0002-add-two-numbers/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/asag7200-design/Leetcode-problems/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
