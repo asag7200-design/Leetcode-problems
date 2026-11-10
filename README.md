@@ -30,6 +30,7 @@ Contains topicwise list of solved problems.
 | [0006-zigzag-conversion](https://github.com/asag7200-design/Leetcode-problems/tree/main/0006-zigzag-conversion/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/asag7200-design/Leetcode-problems/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0013-roman-to-integer](https://github.com/asag7200-design/Leetcode-problems/tree/main/0013-roman-to-integer/) | Easy |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/asag7200-design/Leetcode-problems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/asag7200-design/Leetcode-problems/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/asag7200-design/Leetcode-problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0224-basic-calculator](https://github.com/asag7200-design/Leetcode-problems/tree/main/0224-basic-calculator/) | Hard |
@@ -68,6 +69,7 @@ Contains topicwise list of solved problems.
 | [0011-container-with-most-water](https://github.com/asag7200-design/Leetcode-problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/asag7200-design/Leetcode-problems/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0027-remove-element](https://github.com/asag7200-design/Leetcode-problems/tree/main/0027-remove-element/) | Easy |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/asag7200-design/Leetcode-problems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0125-valid-palindrome](https://github.com/asag7200-design/Leetcode-problems/tree/main/0125-valid-palindrome/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -111,4 +113,20 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/asag7200-design/Leetcode-problems/tree/main/0258-add-digits/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/asag7200-design/Leetcode-problems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Z Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/asag7200-design/Leetcode-problems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Knuth–Morris–Pratt Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/asag7200-design/Leetcode-problems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Boyer–Moore String-Search Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/asag7200-design/Leetcode-problems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
