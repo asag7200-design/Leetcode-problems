@@ -41,6 +41,7 @@ Contains topicwise list of solved problems.
 | [0004-median-of-two-sorted-arrays](https://github.com/asag7200-design/Leetcode-problems/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/asag7200-design/Leetcode-problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0027-remove-element](https://github.com/asag7200-design/Leetcode-problems/tree/main/0027-remove-element/) | Easy |
+| [0033-search-in-rotated-sorted-array](https://github.com/asag7200-design/Leetcode-problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/asag7200-design/Leetcode-problems/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/asag7200-design/Leetcode-problems/tree/main/0066-plus-one/) | Easy |
 | [0169-majority-element](https://github.com/asag7200-design/Leetcode-problems/tree/main/0169-majority-element/) | Easy |
@@ -90,6 +91,7 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/asag7200-design/Leetcode-problems/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0033-search-in-rotated-sorted-array](https://github.com/asag7200-design/Leetcode-problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/asag7200-design/Leetcode-problems/tree/main/0035-search-insert-position/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
