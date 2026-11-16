@@ -30,6 +30,7 @@ Contains topicwise list of solved problems.
 | [0006-zigzag-conversion](https://github.com/asag7200-design/Leetcode-problems/tree/main/0006-zigzag-conversion/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/asag7200-design/Leetcode-problems/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0013-roman-to-integer](https://github.com/asag7200-design/Leetcode-problems/tree/main/0013-roman-to-integer/) | Easy |
+| [0020-valid-parentheses](https://github.com/asag7200-design/Leetcode-problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/asag7200-design/Leetcode-problems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/asag7200-design/Leetcode-problems/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/asag7200-design/Leetcode-problems/tree/main/0125-valid-palindrome/) | Easy |
@@ -110,6 +111,7 @@ Contains topicwise list of solved problems.
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/asag7200-design/Leetcode-problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0224-basic-calculator](https://github.com/asag7200-design/Leetcode-problems/tree/main/0224-basic-calculator/) | Hard |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -131,4 +133,8 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/asag7200-design/Leetcode-problems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/asag7200-design/Leetcode-problems/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
